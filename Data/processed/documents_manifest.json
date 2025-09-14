@@ -1,0 +1,17 @@
+[
+  {
+    "doc_id": "ae8ecd3b-7bb0-4834-adfb-0b1481f24c2f",
+    "filename": "attention_is_all_you_need_Paper.pdf",
+    "json_path": "data\\processed\\attention_is_all_you_need_Paper.json"
+  },
+  {
+    "doc_id": "b2e21930-9f82-4d33-b2ac-0b3c899b779e",
+    "filename": "human_activity_recognition.pdf",
+    "json_path": "data\\processed\\human_activity_recognition.json"
+  },
+  {
+    "doc_id": "4f1ba2cc-f474-4745-9646-6e67a29f7887",
+    "filename": "The_Common_Pile_v0.1.pdf",
+    "json_path": "data\\processed\\The_Common_Pile_v0.1.json"
+  }
+]
