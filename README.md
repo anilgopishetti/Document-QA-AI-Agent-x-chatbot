@@ -252,16 +252,6 @@ find paper on quantum error correction by John Preskill
 
 
 
-# Packaging & submission checklist
-
-- [ ] All code pushed to a GitHub repo (or zipped).  
-- [ ] `.gitignore` present (excludes `.env`, `.venv`, `Data/processed` optionally).  
-- [ ] README.md (this file) in project root.  
-- [ ] `requirements.txt` up-to-date (pin versions if possible).  
-- [ ] Demo video recorded and saved as `demo.mp4`.  
-- [ ] Quick smoke test passes.
-
----
 
 
 
